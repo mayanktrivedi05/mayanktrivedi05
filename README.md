@@ -117,32 +117,7 @@
 
 ---
 
-### 📊 **GitHub & LeetCode Statistics**
 
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mayanktrivedi05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayanktrivedi05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanktrivedi05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://leetcode-stats-badge.herokuapp.com/?username=mayank83&theme=dark" alt="LeetCode Stats" width="100%" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
 
 ### 📫 **Connect & Collaborate**
 
