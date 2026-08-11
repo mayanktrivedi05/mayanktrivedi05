@@ -14,7 +14,7 @@
 
   <br/><br/>
 
-  <!-- Social, Portfolio & Stats Badges -->
+  <!-- Social, Portfolio & LeetCode Badges -->
   <a href="https://portfolio-eta-neon-g3bzk8d73q.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
@@ -24,8 +24,11 @@
   <a href="mailto:trivedim115@gmail.com">
     <img src="https://img.shields.io/badge/Email-trivedim115%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://leetcode.com/u/mayank83/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-mayank83%20(Practice)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Practice"/>
+  </a>
   <a href="https://leetcode.com/u/mayank9794/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-mayank9794-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-mayank9794%20(Contest)-FF6B00?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Contest"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=mayanktrivedi05&color=61dafb&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
@@ -39,10 +42,10 @@
 - 🔭 **Current Focus:** Building production-grade **Autonomous Multi-Agent AI Platforms** using **LangChain, LangGraph, and Vector Databases (Qdrant)**.
 - ⚡ **Backend Expertise:** Decoupled **Event-Driven Microservices**, Redis caching strategies, distributed locking (Redlock), and scalable API Gateways.
 - 🎓 **Education:** B.Tech in Computer Science & Engineering @ **Bundelkhand Institute of Engineering & Technology (BIET Jhansi)** *(CGPA: 8.83)*.
-- 🏆 **Achievements:** 
-  - **Global Rank 1098** in LeetCode Weekly Contest 427.
-  - **350+ DSA problems** solved across LeetCode ([mayank83](https://leetcode.com/u/mayank83/) & [mayank9794](https://leetcode.com/u/mayank9794/)).
-  - Qualified **GATE CSE Examination**.
+- 🏆 **Achievements & Competitive Programming:** 
+  - **350+ DSA Problems Solved:** Main Practice Profile [@mayank83](https://leetcode.com/u/mayank83/)
+  - **Global Rank 1098 (LeetCode Weekly Contest 427):** Contest Profile [@mayank9794](https://leetcode.com/u/mayank9794/)
+  - **GATE CSE Examination:** Qualified with score of 420.
 
 ---
 
@@ -121,7 +124,7 @@
 
 ---
 
-### 📊 **GitHub & LeetCode Statistics**
+### 📊 **GitHub & Competitive Programming Stats**
 
 <div align="center">
 
@@ -136,10 +139,12 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanktrivedi05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+      <p><b>🧩 Practice Stats (mayank83)</b></p>
+      <img src="https://leetcode-stats-badge.herokuapp.com/?username=mayank83&theme=dark" alt="LeetCode Practice Stats" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://leetcode-stats-badge.herokuapp.com/?username=mayank9794&theme=dark" alt="LeetCode Stats" width="100%" />
+      <p><b>🏆 Contest Stats (mayank9794)</b></p>
+      <img src="https://leetcode-stats-badge.herokuapp.com/?username=mayank9794&theme=dark" alt="LeetCode Contest Stats" width="100%" />
     </td>
   </tr>
 </table>
@@ -163,5 +168,7 @@
   &nbsp;&nbsp;
   <a href="mailto:trivedim115@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/mayank9794/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/mayank83/" target="_blank"><img src="https://img.shields.io/badge/LeetCode_Practice-mayank83-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/mayank9794/" target="_blank"><img src="https://img.shields.io/badge/LeetCode_Contest-mayank9794-FF6B00?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
