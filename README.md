@@ -124,34 +124,6 @@
 
 ---
 
-### 📊 **GitHub & Competitive Programming Stats**
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mayanktrivedi05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayanktrivedi05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <p><b>🧩 Practice Stats (mayank83)</b></p>
-      <img src="https://leetcode-stats-badge.herokuapp.com/?username=mayank83&theme=dark" alt="LeetCode Practice Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <p><b>🏆 Contest Stats (mayank9794)</b></p>
-      <img src="https://leetcode-stats-badge.herokuapp.com/?username=mayank9794&theme=dark" alt="LeetCode Contest Stats" width="100%" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
 
 ### 📫 **Connect & Collaborate**
 
