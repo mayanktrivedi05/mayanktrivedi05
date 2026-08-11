@@ -14,15 +14,18 @@
 
   <br/><br/>
 
-  <!-- Social & Stats Badges -->
-  <a href="https://linkedin.com/in/mayank-trivedi-05">
+  <!-- Social, Portfolio & Stats Badges -->
+  <a href="https://portfolio-eta-neon-g3bzk8d73q.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mayank-trivedi-73909b292/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mayank%20Trivedi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:trivedim115@gmail.com">
     <img src="https://img.shields.io/badge/Email-trivedim115%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/u/mayank83/">
-    <img src="https://img.shields.io/badge/LeetCode-mayank83-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/mayank9794/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-mayank9794-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=mayanktrivedi05&color=61dafb&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
@@ -32,12 +35,13 @@
 
 ### 🚀 **About Me**
 
+- 🌐 **Portfolio:** Check out my live interactive portfolio at [portfolio-eta-neon-g3bzk8d73q.vercel.app](https://portfolio-eta-neon-g3bzk8d73q.vercel.app/)
 - 🔭 **Current Focus:** Building production-grade **Autonomous Multi-Agent AI Platforms** using **LangChain, LangGraph, and Vector Databases (Qdrant)**.
 - ⚡ **Backend Expertise:** Decoupled **Event-Driven Microservices**, Redis caching strategies, distributed locking (Redlock), and scalable API Gateways.
 - 🎓 **Education:** B.Tech in Computer Science & Engineering @ **Bundelkhand Institute of Engineering & Technology (BIET Jhansi)** *(CGPA: 8.83)*.
 - 🏆 **Achievements:** 
   - **Global Rank 1098** in LeetCode Weekly Contest 427.
-  - **350+ DSA problems** solved across LeetCode & competitive platforms.
+  - **350+ DSA problems** solved across LeetCode ([mayank83](https://leetcode.com/u/mayank83/) & [mayank9794](https://leetcode.com/u/mayank9794/)).
   - Qualified **GATE CSE Examination**.
 
 ---
@@ -117,7 +121,32 @@
 
 ---
 
+### 📊 **GitHub & LeetCode Statistics**
 
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=mayanktrivedi05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayanktrivedi05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanktrivedi05&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://leetcode-stats-badge.herokuapp.com/?username=mayank9794&theme=dark" alt="LeetCode Stats" width="100%" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
 
 ### 📫 **Connect & Collaborate**
 
@@ -128,9 +157,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mayank-trivedi-05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-eta-neon-g3bzk8d73q.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mayank-trivedi-73909b292/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;
   <a href="mailto:trivedim115@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/mayank83/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/mayank9794/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
